@@ -1,0 +1,2 @@
+# netDiagnosis
+Diagnóstico de Red
