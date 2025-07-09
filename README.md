@@ -8,7 +8,7 @@ El programa ofrece las siguientes opciones a través de un menú interactivo:
 
 1. **Hacer ping a un nombre de host o IP**
     - Permite realizar un ping a una dirección IP o nombre de host proporcionado por el usuario.
-    - Muestra si el ping fue exitoso o fallido.
+    - Muestra si el ping fue exitoso o fallido
 
 2. **Mostrar la configuración actual de la red**
     - Muestra la configuración de red actual, incluyendo las interfaces de red y las rutas de la red utilizando los comandos `ip addr show` e `ip route show`.
